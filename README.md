@@ -3,6 +3,7 @@
 # Autofocus
 
 ![coyote](./gallery/coyote1.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fautofocus.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fautofocus?ref=badge_shield)
 
 This project uses deep learning computer vision to label images taken by motion-activated "camera traps" according to the animals they contain. Accurate models for this labeling task can address a major bottleneck for wildlife conservation efforts.
 
@@ -135,3 +136,7 @@ To test the app, run `pip install -r requirements-dev.txt` and then `pytest`. Th
 ![fawn](./gallery/fawn.JPG)
 
 ![racoons](gallery/raccoons.jpeg)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fautofocus.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fautofocus?ref=badge_large)
